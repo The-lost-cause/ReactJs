@@ -6,7 +6,7 @@ import Person from './Person/Person';
 
 // States in Functional Component 
 
-// useState Method returns an exactly two values : 1. Original State, 2. Function that Modifies the State
+// useState Method returns an array with  exactly two values : 1. Original State, 2. Function that Modifies the State
 
 const App = (props) => {
 
